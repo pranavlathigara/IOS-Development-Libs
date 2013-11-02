@@ -672,7 +672,6 @@ git@github .com:provideal/MMGridView.git
 + 小巧的appirater评价的库 https://github.com/arashpayan/appirater.git 
 + iNotify 通知，第一次启动的功能介绍或者其他的提示 
 + iHasApp 检测已经安装的app
-
 + https://github.com/arg0s/iOSInstalledApps 查看已经安装的App
 
 ---------------------- Util ---------------------- 
@@ -773,9 +772,8 @@ git@github .com:provideal/MMGridView.git
 + 类似Android锁屏的库 https://github.com/GrioSF/Android-Pattern-Lock-on-iOS
 
 ---------------------- Other ---------------------- 
-+ 扫描wifi信息： 
-+ http://code.google.com/p/uwecaugmentedrealityproject/ 
-+ http://code.google.com/p/iphone-wireless/
++ 扫描wifi信息： http://code.google.com/p/uwecaugmentedrealityproject/ 
+  http://code.google.com/p/iphone-wireless/
 
 条形码扫描： 
 + http://zbar.sourceforge.net/iphone/sdkdoc/install.html
